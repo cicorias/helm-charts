@@ -1,1 +1,24 @@
+apiVersion: v1
+entries:
+  acs-engine-autoscaler:
+  - apiVersion: v1
+    appVersion: 2.1.1
+    created: 2018-08-30T14:56:26.616898365Z
+    description: Scales worker nodes within agent pools
+    digest: 5904caae456eecd1fed0a5d58f4a6f46e1fe97f954c4467e49fc80f91d912a10
+    home: https://github.com/wbuchwalter/Kubernetes-acs-engine-autoscaler
+    icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
+    maintainers:
+    - email: ritazh@microsoft.com
+      name: ritazh
+    - email: wibuch@microsoft.com
+      name: wbuchwalter
+    name: acs-engine-autoscaler
+    sources:
+    - https://github.com/wbuchwalter/Kubernetes-acs-engine-autoscaler
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/acs-engine-autoscaler-2.2.0.tgz
+    version: 2.2.0
+  
+  generated: 2018-08-30T14:56:26.616103527Z
 
